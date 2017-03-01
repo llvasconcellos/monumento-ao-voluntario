@@ -1,0 +1,91 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.tabela_menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #CCCCCC;
+	filter: Alpha(Opacity=70);
+	text-align: center;
+}
+a.menu {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px; 
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+a.menu:link {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+a.menu:visited {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+a.menu:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+a.menu:active {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+}
+a.submenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+a.submenu:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+}
+a.submenu:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+}
+a.submenu:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.submenu:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: underline;
+}
+.convite{
+	width: 500px;
+	height: 450px;
+	text-align:justify;
+	position: absolute;
+	left: 100px;
+	top: 50px;
+	padding:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	
+}
